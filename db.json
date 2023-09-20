@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "this is title one",
+      "body": "this is body one"
+    },
+    {
+      "id": 2,
+      "title": "this is title two",
+      "body": "this is body two"
+    },
+    {
+      "id": 3,
+      "title": "post three",
+      "body": "this is post three"
+    },
+    {
+      "id": "a5366ebc-b428-410a-b0af-c26c1a3b12b4",
+      "title": "tyntdy",
+      "body": "fdsgdfg"
+    }
+  ]
+}
